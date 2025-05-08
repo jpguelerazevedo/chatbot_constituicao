@@ -1,0 +1,14 @@
+pip install sentence-transformers
+pip install faiss-cpu
+pip install numpy
+pip install transformers
+pip install torch
+from transformers import pipeline
+
+sentence-transformers
+transformers
+torch
+
+
+//para usar o baixar-constituicao
+pip install beautifulsoup4 requests
