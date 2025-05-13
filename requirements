@@ -1,7 +1,0 @@
-sentence-transformers
-faiss-cpu
-numpy
-transformers
-torch
-
-pip install beautifulsoup4 requests
